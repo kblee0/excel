@@ -1,9 +1,7 @@
 Attribute VB_Name = "Jira"
 Option Explicit
 
-'Private Const BASE_URL As String = "https://jira.atlassian.com"
-'Private Const TOKEN As String = ""
-Private Const BASE_URL As String = "https://jira.dspace.kt.co.kr"
+Private Const BASE_URL As String = "https://jira.atlassian.com"
 Private Const TOKEN As String = "OTEzNjk1OTg6bW8tYXBpLXZpVjVwaWR0WkNuU0FaVnM5bEpMUUl1WQ=="
 
 'Sub jiraSearchExample()
